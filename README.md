@@ -1,2 +1,5 @@
 # SvgAnimation1
-Text how to animate a webpage
+Texting how to animate a webpage
+
+Just Copy this files in a folder and open it using visual studio code.
+Then open the html file using live server.
